@@ -7,7 +7,7 @@
 
 ## I am Babi!
 
-<a href="https://app.daily.dev/Babi"><img src="https://api.daily.dev/devcards/3d1020a140924d07ac2f91121c1f6d9d.png?r=eyh" width="400" alt="Babi B's Dev Card"/></a>
+<a href="https://app.daily.dev/Babi"><img src="https://api.daily.dev/devcards/3d1020a140924d07ac2f91121c1f6d9d.png?r=f9o" width="400" alt="Babi B's Dev Card"/></a>
 
 ## Tech Stack
 
