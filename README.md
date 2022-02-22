@@ -18,7 +18,7 @@
 <br>
 <br>
 
-**_Here is a random quote_**
+### _Here is a random quote_
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 <br>
